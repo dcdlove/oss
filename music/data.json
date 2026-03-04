@@ -3175,6 +3175,12 @@
       "title": "旧友",
       "ext": ".mp3",
       "null": false
+    },
+    {
+      "singer": "拾柒",
+      "title": "音色",
+      "ext": ".mp3",
+      "null": false
     }
   ]
 }
