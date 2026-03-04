@@ -3169,7 +3169,12 @@
       "title": "音色",
       "ext": ".mp3",
       "null": false
+    },
+    {
+      "singer": "Joysaaaa",
+      "title": "旧友",
+      "ext": ".mp3",
+      "null": false
     }
-  ],
-  "total": 294
+  ]
 }
