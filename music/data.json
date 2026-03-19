@@ -3523,6 +3523,12 @@
       "title": "Melody",
       "ext": ".mp3",
       "null": false
+    },
+    {
+      "singer": "Joysaaaa",
+      "title": "弱",
+      "ext": ".mp3",
+      "null": false
     }
   ]
 }
