@@ -3619,6 +3619,12 @@
       "title": "九万字",
       "ext": ".mp3",
       "null": false
+    },
+    {
+      "singer": "黑猫",
+      "title": "笑",
+      "ext": ".mp3",
+      "null": false
     }
   ]
 }
