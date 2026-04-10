@@ -3589,6 +3589,12 @@
       "title": "PLANET",
       "ext": ".mp3",
       "null": false
+    },
+    {
+      "singer": "黑猫",
+      "title": "喜欢",
+      "ext": ".mp3",
+      "null": false
     }
   ]
 }
