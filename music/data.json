@@ -3553,6 +3553,12 @@
       "title": "写给我第一个喜欢的女孩的歌",
       "ext": ".mp3",
       "null": false
+    },
+    {
+      "singer": "黑猫",
+      "title": "情深深雨蒙蒙",
+      "ext": ".mp3",
+      "null": false
     }
   ]
 }
